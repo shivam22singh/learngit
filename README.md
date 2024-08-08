@@ -1,4 +1,5 @@
 # learngit
 This is my first project
 <br>
-Author - Shivam Singh
+Author - Shivam Singh (learn)
+
